@@ -73,6 +73,7 @@ conda install -c apple tensorflow-deps
 pip install tensorflow-macos
 pip install tensorflow-metal
 pip install more_itertools
+pip install numpy --upgrade
 ```
 
 Begin processing (from root of repo):
